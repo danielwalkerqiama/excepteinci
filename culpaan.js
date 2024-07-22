@@ -1,0 +1,1 @@
+current.removeChild(child4);
